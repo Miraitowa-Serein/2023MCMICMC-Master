@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="041c6702-1630-4243-a0f2-e67499986b26" name="更改" comment="" />
+    <list default="true" id="041c6702-1630-4243-a0f2-e67499986b26" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CreateFeatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataPreProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataPreProcessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Wordle_All_Features.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Wordle_All_Features.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EERIE.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EERIE.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EERIE_Pre.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EERIE_Pre.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EERIE_result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IssueFour.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IssueFour.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IssueOne-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IssueOne-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IssueOne-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IssueOne-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IssueThree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IssueThree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IssueTwo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IssueTwo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/XGBoost预测误差（困难人数）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/XGBoost预测误差（困难人数）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/XGBoost预测误差（总人数）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/XGBoost预测误差（总人数）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/报告结果每日变化.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/报告结果每日变化.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/核密度估计值.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/核密度估计值.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/正态分布分析.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/正态分布分析.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/每日选择困难模式人数频率变化.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/每日选择困难模式人数频率变化.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/每日选择困难模式人数频率变化率.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/每日选择困难模式人数频率变化率.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid_guesses.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid_solutions.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,10 +50,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/University/PythonProject/2023MCMICMC-Master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,6 +74,15 @@
       <option name="presentableId" value="Default" />
       <updated>1682737617913</updated>
       <workItem from="1682737619211" duration="275000" />
+      <workItem from="1682738049054" duration="211000" />
+      <workItem from="1682753746898" duration="6286000" />
+      <workItem from="1682769753227" duration="293000" />
+      <workItem from="1682770525064" duration="27556000" />
+      <workItem from="1682832140625" duration="965000" />
+      <workItem from="1682833163814" duration="13559000" />
+      <workItem from="1682847636521" duration="987000" />
+      <workItem from="1682848751700" duration="6750000" />
+      <workItem from="1682876441205" duration="13019000" />
     </task>
     <servers />
   </component>
