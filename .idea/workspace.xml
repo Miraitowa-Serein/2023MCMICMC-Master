@@ -22,11 +22,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2P5CaHDFBlK4UcKKlIA0zshoLJC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -35,13 +40,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/University/PythonProject/2023MCMICMC-Master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/University/PythonProject/2022MathorCup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -69,6 +74,12 @@
       <workItem from="1683971272693" duration="1182000" />
       <workItem from="1684080106631" duration="197000" />
       <workItem from="1684412551401" duration="140000" />
+      <workItem from="1690687880527" duration="4014000" />
+      <workItem from="1691730796394" duration="1790000" />
+      <workItem from="1691768610562" duration="634000" />
+      <workItem from="1692698338349" duration="875000" />
+      <workItem from="1693312049343" duration="817000" />
+      <workItem from="1696084703762" duration="1998000" />
     </task>
     <servers />
   </component>
